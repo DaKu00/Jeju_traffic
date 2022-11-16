@@ -9,6 +9,8 @@
 https://dacon.io/competitions/official/235985/data
 
 ### - 총24개의 컬럼이 있는 데이터의 2개의 컬럼을 추가하여 진행
+  - 주말컬럼과 월컬럼을 추가
+  - 주말컬럼에는 공휴일, 연휴을 포함시켜 휴일과 비휴일 형태로 구성
 <img src="https://user-images.githubusercontent.com/87750521/202093281-3a33f059-6051-4c2d-ac4c-5aa2d5cf1e95.png" width="430" height="400"/>
 
 ### - 학습에 필요하지 않거나, 도움이 되지 않는다 판단되는 컬럼을 삭제
@@ -32,4 +34,10 @@ https://dacon.io/competitions/official/235985/data
 
 ### MAE를 사용하여 모델평가
 - 평균절대 오차로 예측값을 측정하여 오차값이 줄어드는 것을 직관적으로 확인하기 위함
+
+
+## 3. 하이퍼파라미터 튜
+- max_depth, num_leaves, learning_rate, n_estimators 4개의 파라미터가 오차값에 큰 영향이 확인됨
+- 4개의 파라미터튜닝만으로 MAE값이 5.04대에서 3.55대로 감소
+<img src="https://user-images.githubusercontent.com/87750521/202098021-966239c3-ab48-427a-b49f-8df0c3bcb57e.png" width="1000" height="300"/>
 
