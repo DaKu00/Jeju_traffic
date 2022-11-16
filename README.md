@@ -39,6 +39,6 @@ https://dacon.io/competitions/official/235985/data
 ## 3. 하이퍼파라미터 튜닝
 - max_depth, num_leaves, learning_rate, n_estimators 4개의 파라미터가 오차값에 큰 영향이 확인됨
 - 4개의 파라미터튜닝만으로 MAE값이 5.04대에서 3.55대로 감소
-<img src="https://user-images.githubusercontent.com/87750521/202098537-a8619390-01c6-4302-b86e-2836ca86d0a2.png" width="300" height="150"/>
-<img src="https://user-images.githubusercontent.com/87750521/202098021-966239c3-ab48-427a-b49f-8df0c3bcb57e.png" width="400" height="50"/>
+<img src="https://user-images.githubusercontent.com/87750521/202098537-a8619390-01c6-4302-b86e-2836ca86d0a2.png" width="300" height="134"/>
+<img src="https://user-images.githubusercontent.com/87750521/202098021-966239c3-ab48-427a-b49f-8df0c3bcb57e.png" width="400" height="45"/>
 
