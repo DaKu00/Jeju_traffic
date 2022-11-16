@@ -9,7 +9,8 @@
 https://dacon.io/competitions/official/235985/data
 
 - 총24개의 컬럼이 있는 데이터의 2개의 컬럼을 추가하여 진행
-![image](https://user-images.githubusercontent.com/87750521/202093281-3a33f059-6051-4c2d-ac4c-5aa2d5cf1e95.png)
+<img src="[이미지주소](https://user-images.githubusercontent.com/87750521/202093281-3a33f059-6051-4c2d-ac4c-5aa2d5cf1e95).png" width="200" height="200"/>
+
 
 - 학습에 필요하지 않거나, 도움이 되지 않는다 판단되는 컬럼을 drop
-![image](https://user-images.githubusercontent.com/87750521/202093609-79b5b954-8349-4127-95bd-e5921a80fc0b.png)
+<img src="https://user-images.githubusercontent.com/87750521/202093609-79b5b954-8349-4127-95bd-e5921a80fc0b.png" width="200" height="200"/>
