@@ -20,7 +20,7 @@ https://dacon.io/competitions/official/235985/data
   - 데이콘에서 받은 데이터는 train데이터와 test데이터로 나뉘어 있지만 test데이터에는 target이 없어 모델의 성능을 평가하기 힘듦
   - train데이터를 나누어 test데이터로 사용
     - test데이터는 22년 8월 데이터, train데이터는 22년 8월 이전의 데이터
-<img src="https://user-images.githubusercontent.com/87750521/202096016-24f427cb-c2de-4b57-8d0c-e8206dd9f892.png" width="400" height="180"/>
+<img src="https://user-images.githubusercontent.com/87750521/202096016-24f427cb-c2de-4b57-8d0c-e8206dd9f892.png" width="500" height="230"/>
 
 
 
