@@ -42,6 +42,12 @@ https://dacon.io/competitions/official/235985/data
 <img src="https://user-images.githubusercontent.com/87750521/202098537-a8619390-01c6-4302-b86e-2836ca86d0a2.png" width="300" height="130"/>
 <img src="https://user-images.githubusercontent.com/87750521/202098021-966239c3-ab48-427a-b49f-8df0c3bcb57e.png" width="400" height="40"/>
 
+## 4. 학습된 모델 테스트
+- 학습이 완료된 모델이 얼마나 근사치로 구간 도로에서의 속도를 예측할 수 있는지를 
+<img src="https://user-images.githubusercontent.com/87750521/203452058-2471a007-4a80-44e4-a043-2411c61d243f.png" width="500" height="350"/>
+
+
+
 ## 4. Feature importance
 - 학습이 완료된 후에 feature importance를 뽑아 학습에 주요하게 사용된 컬럼을 확인
 <img src="https://user-images.githubusercontent.com/87750521/202099476-6d8dba71-4d7c-48e3-9b53-4bee189ff3e6.png" width="500" height="350"/>
